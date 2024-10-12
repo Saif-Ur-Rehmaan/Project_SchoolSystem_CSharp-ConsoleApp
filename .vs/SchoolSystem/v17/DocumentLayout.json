@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\saif\\desktop\\projects-uploded in github\\c#\\project_schoolsystem_csharp-consoleapp\\schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\saif\\desktop\\projects-uploded in github\\c#\\project_schoolsystem_csharp-consoleapp\\schoolsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\saif\\desktop\\projects-uploded in github\\c#\\project_schoolsystem_csharp-consoleapp\\schoolsystem\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\saif\\desktop\\projects-uploded in github\\c#\\project_schoolsystem_csharp-consoleapp\\schoolsystem\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\saif\\desktop\\projects-uploded in github\\c#\\project_schoolsystem_csharp-consoleapp\\schoolsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35BDD93-724B-45A2-8DCE-C85177958967}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Program.cs",
+              "RelativeToolTip": "SchoolSystem\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAawEwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:59:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Verification.cs",
+              "DocumentMoniker": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Verification.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Verification.cs",
+              "ToolTip": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Verification.cs",
+              "RelativeToolTip": "SchoolSystem\\Verification.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:59:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Parent.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Parent.cs",
+              "ToolTip": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Parent.cs",
+              "RelativeToolTip": "SchoolSystem\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:59:33.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Database.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Database.cs",
+              "ToolTip": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Database.cs",
+              "RelativeToolTip": "SchoolSystem\\Database.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAowOsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:59:33.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Student.cs",
+              "ToolTip": "C:\\Users\\SaIF\\Desktop\\PROJECTS-Uploded In Github\\C#\\Project_SchoolSystem_CSharp-ConsoleApp\\SchoolSystem\\Student.cs",
+              "RelativeToolTip": "SchoolSystem\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:59:33.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

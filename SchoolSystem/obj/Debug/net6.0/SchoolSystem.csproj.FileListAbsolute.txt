@@ -1,0 +1,14 @@
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.AssemblyInfoInputs.cache
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.AssemblyInfo.cs
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\bin\Debug\net6.0\SchoolSystem.exe
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\bin\Debug\net6.0\SchoolSystem.deps.json
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\bin\Debug\net6.0\SchoolSystem.runtimeconfig.json
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\bin\Debug\net6.0\SchoolSystem.dll
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\bin\Debug\net6.0\SchoolSystem.pdb
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.dll
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\refint\SchoolSystem.dll
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.pdb
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\SchoolSystem.genruntimeconfig.cache
+C:\Users\SaIF\Desktop\C#\SchoolSystem\SchoolSystem\obj\Debug\net6.0\ref\SchoolSystem.dll
